@@ -1,0 +1,13 @@
+{
+  "name": "wm-subdir-exec",
+  "version": "1.0.1",
+  "description": "",
+  "main": "subdir-exec.js",
+  "author": "yellowblood@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "path": "^0.12.7",
+    "sync-exec": "^0.6.2"
+  }
+}
